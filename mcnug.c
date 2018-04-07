@@ -99,8 +99,6 @@ int nuggets(int count, int defecit){
 			total+=4;
 		}
 		else break;
-		printf("40: %i | 20: %i | 10: %i | 4: %i\n", fortypack, twentypack, tenpack, fourpack);
-
 	}
 
 	if(count != total){
