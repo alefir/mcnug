@@ -1,6 +1,6 @@
 # mcnug
 
-McDonalds Chicken McNugget Purchasing Optimizing Tool
+McDonalds Chicken McNugget Purchase Optimizing Tool
 
 ## Usage
 
