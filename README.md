@@ -5,7 +5,7 @@ McDonalds Chicken McNugget Purchase Optimizing Tool
 ## Usage
 
 ```
-mcnug [-d <amount>]
+mcnug [-d <amount>] [-n <amount>]
 
 Options:
 -d <amount>	Calculate the amount of nuggets that can be purchased
