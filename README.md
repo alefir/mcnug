@@ -29,3 +29,7 @@ Forty-Packs to buy: 2
 Remaining Money: $1.43
 Total Nuggets: 84
 ```
+
+## Configuration
+
+Prices and sales tax can be configured by editing the values in `prices.h`
